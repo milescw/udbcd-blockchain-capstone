@@ -88,7 +88,7 @@ All 2 tests should pass.
 truffle test ./test/TestSolnSquareVerifier.js  
 ```
 
-![TestSolnSquareVerifier.js](images/test3-TestSolnSquareVerifierr.png)
+![TestSolnSquareVerifier.js](images/test3-TestSolnSquareVerifier.png)
 
 All 8 tests should pass.
 
@@ -181,8 +181,10 @@ https://rinkeby.opensea.io/category/udacityrealestatetitle
 * List 5 of your tokens on the marketplace
 * Purchase those 5 tokens using a different address
 
+**Tokens Listed**
 ![Udacity Real Estate Title](images/UX-2.png)
 
+**Tokens Purchased**
 ![Udacity Real Estate Title](images/UX-3.png)
 
 

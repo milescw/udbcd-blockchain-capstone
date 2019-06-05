@@ -3,7 +3,7 @@ This is a sample application for Udacity's Blockchain Developer course.  A decen
 
 **Project name: udbcd-blockchain-capstone**
 
-This project is connected to the _Blockchain Developer Nanodegree Program_ course by **Udacity**.
+This project is associated with the _Blockchain Developer Nanodegree Program_ course by **Udacity**.
 The project is using OpenSea to list the property tokens for sale. In order to list a property, you'll need to go to the item on your account page. On the item detail page, click "Sell". This will walk you through the steps for selling an item. Note that the first time you auction an item, you will need to complete several MetaMask transactions in order to give the exchange contracts access to your items. After you complete these initial steps, creating an auction will only require signing a MetaMask message. This means that you can auction items without paying gas.
 
 ## Getting Started
